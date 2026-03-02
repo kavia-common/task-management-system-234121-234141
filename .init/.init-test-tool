@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/task-management-system-234121-234141/task_manager_frontend"
+}
